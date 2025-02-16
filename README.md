@@ -1,23 +1,23 @@
 
 <img src="https://github.com/ashu-kudesiya/Spotify_Data_Dashboard/blob/main/Spotify%20Data/Image%20Templates/Image%20(5).png" width="80">
 
-
 # 🎵 Spotify Data Dashboard 📊  
 
 This project provides insights into **Spotify's 2024 dataset** using **Power BI**, focusing on track performance, artist trends, streaming statistics, and playlist reach. The dataset was enriched by retrieving **album cover URLs** via the **Spotify API** using a Python script.  
 
 ## 📌 Table of Contents  
-- [Overview](#overview )  
+- [Overview](#overview)  
 - [Requirements](#requirements)  
 - [Steps for Analysis](#steps-for-analysis)  
 - [Visualizations](#visualizations)  
 - [Screenshots](#screenshots)  
 - [Getting Started](#getting-started)  
+- [Opening Power BI Dashboard](#opening-power-bi-dashboard)  
 - [Contact Information](#contact-information)  
 
 ---
 
-## 🔍 Overview  
+## Overview  
 
 - **🛠 Data Cleaning & Processing**: The dataset was cleaned, missing values were handled, and non-essential columns were removed.  
 - **🎨 Album Cover Retrieval**: A Python script used the **Spotify API** to fetch album cover URLs.  
@@ -25,7 +25,7 @@ This project provides insights into **Spotify's 2024 dataset** using **Power BI*
 
 ---
 
-## ⚙️ Requirements  
+## Requirements  
 
 - 🐍 **Python 3.x** (for data processing & album cover retrieval)  
 - 🖥 **Power BI Desktop** (for viewing the dashboard)  
@@ -40,7 +40,7 @@ This project provides insights into **Spotify's 2024 dataset** using **Power BI*
 
 ---
 
-## 📊 Steps for Analysis  
+## Steps for Analysis  
 
 ### 🎯 Part 1: Data Preparation & Enrichment  
 
@@ -80,7 +80,7 @@ This project provides insights into **Spotify's 2024 dataset** using **Power BI*
 
 ---
 
-## 📈 Visualizations  
+## Visualizations  
 
 This dashboard includes the following visualizations:  
 
@@ -91,37 +91,34 @@ This dashboard includes the following visualizations:
 
 ---
 
-## 📸 Screenshots  
+## Screenshots  
 
-![🎵 Dashboard Screenshot](https://your-image-link.com/dashboard.png)  
----  
-![📊 Track Performance Screenshot](https://your-image-link.com/track_performance.png)  
----  
-![🔥 Artist Popularity Screenshot](https://your-image-link.com/artist_popularity.png)  
----  
+![🎵 Dashboard Screenshot](https://github.com/ashu-kudesiya/Spotify_Data_Dashboard/blob/main/Screenshot/Dashboard%20Screenshot.png)  
 
 ---
 
-## 🚀 Getting Started  
+## Getting Started  
 
 ### 🛠 Running the Python Script  
 1️⃣ Replace `SPOTIPY_CLIENT_ID` and `SPOTIPY_CLIENT_SECRET` with your **Spotify API credentials** in `python_script.py`.  
 2️⃣ Run the script:  
    ```bash
+
    python python_script.py
+
    ```
 3️⃣ The updated dataset (**updated_spotify_data.csv**) will be generated.
 
 ---
 
-## 📂 Opening Power BI Dashboard  
+## Opening Power BI Dashboard  
 1️⃣ Open **Power BI Desktop**.  
 2️⃣ Load the **Dashboard.pbix** file.  
 3️⃣ Interact with the visualizations.  
 
 ---
 
-## 📩 Contact Information  
+## Contact Information  
 
 For any questions, feel free to reach out:  
 
