@@ -1,5 +1,5 @@
 
-<img src="https://github.com/ashu-kudesiya/Spotify_Data_Dashboard/blob/main/Spotify%20Data/Image%20Templates/Image%20(5).png" width="80">
+<img src="https://github.com/ashu-kudesiya/Spotify_Data_Dashboard/blob/main/Spotify%20Data/Image%20Templates/Image%20(6).png" width="212">
 
 # 🎵 Spotify Data Dashboard 📊  
 
